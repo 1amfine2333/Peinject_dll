@@ -6,6 +6,8 @@ cs peinject shellcode
 使用过程还是和原来一样。
 ***
 ## 第一步添加脚本
+注意修改CNA脚本中shellcode的路径   
+![image](https://github.com/m0ngo0se/Peinject_dll/blob/master/images/0.jpg)
 ![image](https://github.com/m0ngo0se/Peinject_dll/blob/master/images/1.jpg)
 ## 第二步设置目标主机上的感染文件路径
 ![image](https://github.com/m0ngo0se/Peinject_dll/blob/master/images/2.jpg)
